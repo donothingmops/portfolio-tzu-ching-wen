@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mitsubishi Lancer evo X (2016)
+* source:	https://sketchfab.com/3d-models/mitsubishi-lancer-evo-x-2016-eb89c5c72d9044a9ace3a2ace39a0ad4
+* author:	WARENTERTAINMENT™ (https://sketchfab.com/WarEntertainment)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mitsubishi Lancer evo X (2016)" (https://sketchfab.com/3d-models/mitsubishi-lancer-evo-x-2016-eb89c5c72d9044a9ace3a2ace39a0ad4) by WARENTERTAINMENT™ (https://sketchfab.com/WarEntertainment) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
